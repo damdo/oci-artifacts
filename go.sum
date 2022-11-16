@@ -1,0 +1,7 @@
+github.com/opencontainers/go-digest v1.0.0 h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=
+github.com/opencontainers/go-digest v1.0.0/go.mod h1:0JzlMkj0TRzQZfJkVvzbP0HBR3IKzErnv2BNG4W4MAM=
+github.com/opencontainers/image-spec v1.1.0-rc2 h1:2zx/Stx4Wc5pIPDvIxHXvXtQFW/7XWJGmnM7r3wg034=
+github.com/opencontainers/image-spec v1.1.0-rc2/go.mod h1:3OVijpioIKYWTqjiG0zfF6wvoJ4fAXGbjdZuI2NgsRQ=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
+oras.land/oras-go/v2 v2.0.0-rc.4 h1:hg/R2znUQ1+qd43gRmL16VeX1GIZ8hQlLalBjYhhKSk=
+oras.land/oras-go/v2 v2.0.0-rc.4/go.mod h1:YGHvWBGuqRlZgUyXUIoKsR3lcuCOb3DAtG0SEsEw1iY=
