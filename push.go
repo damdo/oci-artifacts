@@ -38,7 +38,7 @@ func push(registryName string, repositoryName string, imageReference string, fil
 		},
 	}
 
-    // The OCI artifact blueprint:
+	// The OCI artifact blueprint:
 	//   +---------------------------------------------------+
 	//   |                                                   |
 	//   |                                +----------------+ |
@@ -64,7 +64,7 @@ func push(registryName string, repositoryName string, imageReference string, fil
 		filename := path.Base(filePath)
 
 		blobDescriptor := ocispec.Descriptor{
-			MediaType: "blob",
+			MediaType: "application/vnd.oci.image.layer.v1.tar",
 			Digest:    digest.FromBytes(blob),
 			Size:      int64(len(blob)),
 			Annotations: map[string]string{
